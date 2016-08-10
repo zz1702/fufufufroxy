@@ -1,0 +1,2 @@
+# fufufufroxy
+a personal proxy
